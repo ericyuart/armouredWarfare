@@ -1,0 +1,35 @@
+Updates 1
+
+Updates in the Project Proposal:
+
+Taking into account the amount of time I have left, I have decided to add some
+new features (some depending on how much time I have) while taking out some old
+ones by either making them optional dependent on time or removing them
+completely:
+
+    1.  Took out the round timer.  Now there is no time limit per level.
+        You can only win a round if you destroy the enemy.
+
+    2.  The in-game shop will most likely be cut, and even if added, will be
+        severely reduced in what you can buy.
+
+    3.  The enemy's health will be placed in the top right corner.  Now you
+        will be able to keep track of how much damage they took.
+
+    4.  The game will be able to keep track of total victories.  Both your score
+        and the enemy's score will be displayed at the top center of the screen.
+
+    5.  You will not be able to restart a level if you lose.  That match will
+        count as a victory for the enemy.
+
+    6.  Depending on how much time I have left, field items which can be picked
+        up and used might be added.  These could perhaps add ammunition or maybe
+        speed to the lucky tank.
+
+    7.  Secondary weapons will most likely be taken out.
+
+    8.  To prevent people from moving out of the field, I will institute a
+        minefield so that if the player moves out of bounds they will be warned
+        to go back (if they stay out too long, they wil die!).
+
+    9.  Multiple enemies will most likely be cut unless I have more time.
